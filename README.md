@@ -8,7 +8,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ## Data Model
 
-!(C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-06-19 214119.png)
+!(Images/Data_model.png)
 
 
 
