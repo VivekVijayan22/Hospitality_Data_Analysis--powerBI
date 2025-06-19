@@ -29,7 +29,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - We need to focus more on Elite customers across the cities as they drive the revenue boost. RT2 Room type should be prioritized more as it has the highest   influence on revenue.
 - Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
 - AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
-- AtliQ Bay has the highest occupancy of 66%
+- AtliQ Blu has the highest occupancy of 62%
 - Week 27 recorded the highest revenue among all, which is 139.73 Million
 - Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 - Elite type rooms has the most booking and as well higher cancellation rate
