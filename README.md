@@ -8,7 +8,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 ## Data Model
 
-!(Images/Data_model.png)
+![Dta_model Screenshot](Images/Data_model.png)
 
 
 
