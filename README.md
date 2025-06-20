@@ -52,4 +52,4 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - Implement dynamic pricing to optimize ADR based on demand.
 - Focus on improving online ratings through service quality and post-stay feedback management.
 - Consider channel-specific offers to improve performance of direct bookings.
--Promote high-performing room classes (Elite/Premium) and cities (like Mumbai) during peak travel periods.
+- Promote high-performing room classes (Elite/Premium) and cities (like Mumbai) during peak travel periods.
