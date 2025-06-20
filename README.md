@@ -36,8 +36,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
   - sub-Occupancy improves from 63% to 56% .
 - Suggests weekend-focused promotions or pricing could be optimized further.
 5. Direct Channels Underperform
-- ADR from direct platforms (own booking platforms) is lower than other booking platforms.
-- Realisation % also slightly dips for direct channels, indicating potential issues in pricing strategy or customer perception.
+- ADR from direct platforms (hotel's own booking platforms) is lower than other booking platforms.
 6. Room Class Distribution
 - Elite and Premium rooms generate the highest revenue (₹554M and ₹456M), suggesting these segments are in demand.
 - Standard rooms bring the least (₹306M), but may still be critical for volume-based bookings.
