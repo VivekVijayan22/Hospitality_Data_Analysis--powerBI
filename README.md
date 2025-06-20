@@ -32,8 +32,8 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - This limits revenue optimization opportunities during high-demand periods.
 4. Weekends Drive Higher Revenue
 - On weekends:
- sub - RevPAR increases (₹7,972 vs ₹7,083).
-sub - Occupancy improves from 63% to 56% .
+  - sub-RevPAR increases (₹7,972 vs ₹7,083).
+  - sub-Occupancy improves from 63% to 56% .
 - Suggests weekend-focused promotions or pricing could be optimized further.
 5. Direct Channels Underperform
 - ADR from direct platforms (own booking platforms) is lower than other booking platforms.
