@@ -20,15 +20,36 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 
 
-## Some Important insights from the Dashboard
-- Developed 2 Dashboards for Overall Analysis and Booking Analysis
-- The analysis is done on various parameters to give a proper insight from the requirement mentioned by the revenue team.
-- There is  Strong positive correlation between property ratings and occupancy rates indicates that guests heavily rely on reviews when booking.
--  Flat ADR(Average Daily Rate) trends suggest limited use of dynamic pricing models across properties.They are following flat pricing.
--  ADR is consistently lower on properties’ own online booking platform compared to third-party booking channels, highlighting pricing strategy gaps.
-- We need to focus more on Elite customers across the cities as they drive the revenue boost. RT2 Room type should be prioritized more as it has the highest   influence on revenue.
-- Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
-- AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage is 57 and cancellation rate as 24.4%.
-- AtliQ Blu has the highest occupancy of 62%
-- Week 27 recorded the highest revenue among all, which is 139.73 Million
-- Elite type rooms has the most booking and as well higher cancellation rate
+## Key insights from Dashboard
+1. Ratings Strongly Influence Occupancy
+- Properties with lower average ratings (e.g., 2.3–2.5) have significantly lower occupancy rates (~44–49%).
+- High-rated properties (ratings >4.0) consistently show occupancy rates above 60%, confirming that guests prioritize reviews before booking.
+2. Occupancy Drives RevPAR (Revenue per Available Room)
+- A direct positive correlation exists between occupancy % and RevPAR.
+- Properties with both high occupancy and good ratings tend to deliver better revenue performance.
+3. ADR Is Flat – Static Pricing Strategy
+- ADR (Average Daily Rate) remains nearly constant at ₹12,696 across all segments and weeks, indicating lack of dynamic pricing.
+- This limits revenue optimization opportunities during high-demand periods.
+4. Weekends Drive Higher Revenue
+- On weekends:
+ sub - RevPAR increases (₹7,972 vs ₹7,083).
+sub - Occupancy improves from 63% to 56% .
+- Suggests weekend-focused promotions or pricing could be optimized further.
+5. Direct Channels Underperform
+- ADR from direct platforms (own booking platforms) is lower than other booking platforms.
+- Realisation % also slightly dips for direct channels, indicating potential issues in pricing strategy or customer perception.
+6. Room Class Distribution
+- Elite and Premium rooms generate the highest revenue (₹554M and ₹456M), suggesting these segments are in demand.
+- Standard rooms bring the least (₹306M), but may still be critical for volume-based bookings.
+7. City-wise Revenue Leader
+- Mumbai leads in city-wise revenue (₹661M), followed by Bangalore (₹415M).
+- Properties in Hyderabad and Delhi trail behind, despite similar room offerings—indicating regional differences in demand or pricing efficiency.
+8. Cancellation Rates Are Moderate
+- Average cancellation rate across properties is ~24.8%, with little variance.
+- This level is manageable but may benefit from policies or incentives to reduce last-minute cancellations.
+
+## Strategic Recommendations
+- Implement dynamic pricing to optimize ADR based on demand.
+- Focus on improving online ratings through service quality and post-stay feedback management.
+- Consider channel-specific offers to improve performance of direct bookings.
+-Promote high-performing room classes (Elite/Premium) and cities (like Mumbai) during peak travel periods.
